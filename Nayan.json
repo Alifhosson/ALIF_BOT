@@ -1,0 +1,29 @@
+{
+  "author": "Nayan",
+  "version": "1.5.7",
+  "autoRestart": true,
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": false,
+  "BOTNAME": "Rahad-bot😻",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "61550013134947",
+    "100000671710882"
+  ],
+  "ADMINBOT": [
+    "61550013134947",
+    "100086600378241",
+    "",
+    "61552366997820",
+    ""
+  ],
+  "OWNER": ["100000959749712"], 
+  "APPROVED": [],
+  "disabledcmds": [
+  ],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": " dont cng auther name and owner uid. otherwise bot not working"
+}
